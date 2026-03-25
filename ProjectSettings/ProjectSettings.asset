@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 50d627cb400ab4149a510bcd29bbfdcc
+  productGUID: 48e4b283cde080244aa7e5a0a7c764a9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Trade-Or-Die
+  productName: Trade Or Die
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -843,14 +843,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Trade-Or-Die
+  metroPackageName: Trade Or Die
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Trade-Or-Die
+  metroApplicationDescription: Trade Or Die
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -921,10 +921,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: c13d3b2a-8e6a-466c-a045-d152bd7d6d01
+  cloudProjectId: fb501540-ad1b-41d1-9b9b-ba5cdfa82a13
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Trade-Or-Die 2026-03-26_00-26-17
+  projectName: Trade Or Die
   organizationId: timurmazhitv
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
