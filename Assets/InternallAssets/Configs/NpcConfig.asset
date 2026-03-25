@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bd93d5107d804a468a501d16f5bde73, type: 3}
+  m_Name: NpcConfig
+  m_EditorClassIdentifier: 
+  NpcSettings:
+  - ItemsWithModificator:
+    - Id: 5
+      Multiplier: 0.7
+    - Id: 6
+      Multiplier: 1.5
+    - Id: 8
+      Multiplier: 1.2
+    DialogData:
+      Name: "\u0411\u0430\u0431\u043A\u0430"
+      StartKnots:
+      - Start1
+      - Start2
+      - Start3
+    Wallet: 160
+    Model: {fileID: 8771167156368088846, guid: 08ee9ea5e4044ed4299572a1f6c859ab, type: 3}
